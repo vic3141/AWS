@@ -325,6 +325,7 @@ https://kubernetes.io/docs/tasks/access-application-cluster/create-external-load
 - creating nodeport service
 
 ![image](https://github.com/vic3141/AWS/assets/143579487/d056ef30-5cef-44b5-b4e2-ced9748c6978)
+
 ![image](https://github.com/vic3141/AWS/assets/143579487/d5f9249b-9b50-43ae-a21f-f64961a9b029)
 
 ![image](https://github.com/vic3141/AWS/assets/143579487/0b5d45ba-0997-42b7-94a9-073260c4abaf)
